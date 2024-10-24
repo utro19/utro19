@@ -1,4 +1,4 @@
-![Header](https://github.com/utro19/utro19/blob/main/assets/header.jpg)
+![Header](https://github.com/utro19/utro19/blob/main/assets/header%20sea.jpg)
 
 ## I`m a beginner QA Engineer
 
