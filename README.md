@@ -5,9 +5,9 @@
 VC
 
 ### Languages and Tools
- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFE0)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=000000)
-![SoapUI](https://img.shields.io/badge/-Charles-F3F5F5?style=for-the-badge&logo=Charles&logoColor=ADD8E6)
-![SoapUI](https://img.shields.io/badge/-DevTOOLS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=FF0000)
+ ![Postman](https://img.shields.io/badge/-Postman-282325?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Jira](https://img.shields.io/badge/-Jira-282325?style=for-the-badge&logo=jira&logoColor=0052CC)
+![SoapUI](https://img.shields.io/badge/-Charles-282325?style=for-the-badge&logo=Charles&logoColor=F3F5F5)
+![SoapUI](https://img.shields.io/badge/-DevTOOLS-282325?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
 
 Follow me
