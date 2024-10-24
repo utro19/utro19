@@ -1,6 +1,6 @@
 ![Header](https://github.com/utro19/utro19/blob/main/assets/header.jpg)
 
-About me
+## I`m a beginner QA Engineer
 
 VC
 
