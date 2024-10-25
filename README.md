@@ -2,8 +2,7 @@
 
 ## Hi, I'm Maria, a beginner QA Engineer.
 
-### CV:
-https://drive.google.com/file/d/1bCuIcXrRduSgfyW3sCG7ZdeSGXR2lBCX/view?usp=sharing
+### CV:(https://drive.google.com/file/d/1bCuIcXrRduSgfyW3sCG7ZdeSGXR2lBCX/view?usp=sharing)
 
 ### Languages and Tools
  ![Postman](https://img.shields.io/badge/-Postman-646062?style=for-the-badge&logo=postman&logoColor=FF6C37)
