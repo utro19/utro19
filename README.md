@@ -2,7 +2,7 @@
 
 ## Hi, I'm Maria, a QA Engineer.
 
-[My CV](https://drive.google.com/file/d/1bCuIcXrRduSgfyW3sCG7ZdeSGXR2lBCX/view?usp=sharing)
+## [My CV](https://drive.google.com/file/d/1bCuIcXrRduSgfyW3sCG7ZdeSGXR2lBCX/view?usp=sharing)
 
 ### Tools
  ![Postman](https://img.shields.io/badge/-Postman-646062?style=for-the-badge&logo=postman&logoColor=FF6C37)
@@ -16,5 +16,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-646062?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/a_utro)
 
 ### Portfolio
-- [Postman DummyAPI](https://www.postman.com/preferito/workspace/mariakh/collection/37982204-dff64b34-9afb-40ed-ab9b-660688d5d726?action=share&creator=37982204)
+- [Postman DummyAPI]()
 
